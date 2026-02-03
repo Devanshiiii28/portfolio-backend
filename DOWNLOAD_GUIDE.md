@@ -16,11 +16,11 @@ This portfolio package includes:
 
 ## 📋 **STEP-BY-STEP DOWNLOAD INSTRUCTIONS**
 
-### **METHOD 1: Download Individual Files (Recommended for Beginners)**
+### **METHOD 1: Download Individual Files 
 
 #### **Step 1: Create a Folder on Your Computer**
 
-1. **Open File Explorer** (Windows) or **Finder** (Mac)
+1. **Open File Explorer** (Windows) 
 2. Navigate to where you want to save your portfolio (e.g., Desktop or Documents)
 3. **Right-click** in the empty space
 4. Select **New → Folder** (Windows) or **File → New Folder** (Mac)
@@ -387,16 +387,11 @@ Want to customize further? Learn:
 
 ---
 
-## 🎉 **CONGRATULATIONS!**
+
 
 You now have a professional, fully-functional portfolio website!
 
-**What to do next:**
-1. Share your portfolio URL with potential employers
-2. Add it to your resume and LinkedIn
-3. Keep updating with new projects
-4. Monitor contact form submissions
-5. Get feedback and iterate
+
 
 **Your portfolio URL formats:**
 - GitHub Pages: `https://yourusername.github.io/portfolio`
